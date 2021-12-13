@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,qBAAsB,CACtB,kBAAmB,CAEnB,aACE,WAAY,CACZ,UAAW,CACX,cAAe","file":"main.c6987c40.chunk.css","sourcesContent":[".App {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n\n  &__button {\n    padding: 5px;\n    margin: 5px;\n    cursor: pointer;\n  }\n}\n"]}
